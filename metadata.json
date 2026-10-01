@@ -1,0 +1,6 @@
+{
+  "name": "EasyDoc - Simple Document Summarizer & AI Chat",
+  "description": "Easily upload and summarize documents in English, Hinglish, and Hindi. Chat with your document using AI with 100% fact preservation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
